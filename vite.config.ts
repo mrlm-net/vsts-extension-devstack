@@ -13,7 +13,7 @@ export default defineConfig({
       },
       name: 'MRLM.NET.VSTS DevStack',
       // the proper extensions will be added
-      fileName: 'indvsts-extension-devstack',
+      fileName: 'vsts-extension-devstack',
     },
     rollupOptions: {
       // make sure to externalize deps that shouldn't be bundled
